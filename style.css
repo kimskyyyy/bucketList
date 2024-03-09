@@ -25,7 +25,7 @@ html {
 
 .title {
     margin-top: 50px;
-    color: #E8344E;
+    color: skyblue;
 }
 
 .wrap {
@@ -72,7 +72,7 @@ html {
     content: "";
     width: 107px;
     height: 70px;
-    background-image: url("./images/Done.png");
+    background-image: url("./images/completed-stamp-2.png");
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -87,7 +87,7 @@ html {
 }
   
 body {
-    /* height: 100vh; */
+    /* width: 80vh; */
 }
 
 
@@ -120,4 +120,40 @@ body {
 .img6 {
     background-image: url("./images/Bucket06.png");
           color: #E8344E;
+  }
+
+
+
+
+  /*
+   audio {
+    margin-left: auto; 
+    margin-right: 0; 
+    display: block; 
+} */
+
+
+
+.img1-t5 {
+    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-pic1.png");
+  }
+  
+  .img2-t5 {
+    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-pic2.png");
+  }
+  
+  .img3-t5 {
+    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-pic3.png");
+  }
+  
+  .img4-t5 {
+    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-pic4.png");
+  }
+  
+  .img5-t5 {
+    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-pic5.png");
+  }
+  
+  .img6-t5 {
+    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-pic6.png");
   }
